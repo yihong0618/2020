@@ -15,6 +15,7 @@
 | [Vaidehi Joshi](https://medium.com/@vaidehijoshi) | 2020.01.10 | 技术博客 | | 非常详细的图文介绍 |
 | [Himself65 Blog](https://www.himself65.com/) | 2020.01.13 | 技术博客 | | 这个人太厉害了学习 |
 | [拖鞋](http://yanyiwu.com/blog.html) | 2020.02.01 | 技术博客 | | Go语言，结巴分词 |
+| [不发光的博客](https://lightless.me/) | 2020.02.04 | 技术博客 | | 安全相关 |
 
 ### 代码片段
 
