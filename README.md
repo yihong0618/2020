@@ -9,7 +9,7 @@
 | [GitHub Actions实战：知乎倒闭了吗？](https://www.himself65.com/shitty-zhihu/)| 2020.01.13 | 技巧文章 | | 需要学习 |
 | [Deploying a full Django stack with Docker-Compose](https://www.capside.com/labs/deploying-full-django-stack-with-docker-compose/)| 2020.01.14 | 教程文章 | | English |
 | [Pythonic code review](https://access.redhat.com/blogs/766093/posts/2802001)| 2020.01.30 | 值得多看的文章 | | English |
-| [PGit series 1/3: Understanding git for real by exploring the .git directory](Git series 1/3: Understanding git for real by exploring the .git directory)| 2020.02.05 | 系列文章 | | English |
+| [PGit series 1/3: Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)| 2020.02.05 | 系列文章 | | English |
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
 | ------- | ------- | ------- | ------- | -------|
