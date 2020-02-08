@@ -17,6 +17,7 @@
 | [Himself65 Blog](https://www.himself65.com/) | 2020.01.13 | 技术博客 | | 这个人太厉害了学习 |
 | [拖鞋](http://yanyiwu.com/blog.html) | 2020.02.01 | 技术博客 | | Go语言，结巴分词 |
 | [不发光的博客](https://www.daolf.com/posts/git-series-part-1/) | 2020.02.04 | 技术博客 | | 安全相关 |
+| [Jiayuan Zhang](http://blog.jiayuanzhang.com/) | 2020.02.08 | 技术博客 | | 阅读，技术 |
 
 ### 代码片段
 
