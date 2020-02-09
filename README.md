@@ -10,6 +10,9 @@
 | [Deploying a full Django stack with Docker-Compose](https://www.capside.com/labs/deploying-full-django-stack-with-docker-compose/)| 2020.01.14 | 教程文章 | | English |
 | [Pythonic code review](https://access.redhat.com/blogs/766093/posts/2802001)| 2020.01.30 | 值得多看的文章 | | English |
 | [PGit series 1/3: Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)| 2020.02.05 | 系列文章 | | English |
+| [我和Python的故事](https://thautwarm.github.io/Site-32/Fiction/%E6%97%A5%E8%AE%B02019-10-15.html)| 2020.02.09 | 故事 | | 我太菜了 |
+| [图文并茂VLAN详解](https://blog.51cto.com/6930123/2115373)| 2020.02.09 | 网络相关 | | 可能用的到 |
+
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
 | ------- | ------- | ------- | ------- | -------|
@@ -17,7 +20,8 @@
 | [Himself65 Blog](https://www.himself65.com/) | 2020.01.13 | 技术博客 | | 这个人太厉害了学习 |
 | [拖鞋](http://yanyiwu.com/blog.html) | 2020.02.01 | 技术博客 | | Go语言，结巴分词 |
 | [不发光的博客](https://www.daolf.com/posts/git-series-part-1/) | 2020.02.04 | 技术博客 | | 安全相关 |
-| [Jiayuan Zhang](http://blog.jiayuanzhang.com/) | 2020.02.08 | 技术博客 | | 阅读，技术 |
+| [Site 32](https://thautwarm.github.io/Site-32/index.html) | 2020.02.09 | 技术博客 | | 仰望的神人 |
+| [aoik](https://aoik.me/blog) | 2020.02.09 | 技术博客 | | 太牛逼的神人 |
 
 ### 代码片段
 
