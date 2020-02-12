@@ -22,8 +22,15 @@
 | [不发光的博客](https://www.daolf.com/posts/git-series-part-1/) | 2020.02.04 | 技术博客 | | 安全相关 |
 | [Site 32](https://thautwarm.github.io/Site-32/index.html) | 2020.02.09 | 技术博客 | | 仰望的神人 |
 | [aoik](https://aoik.me/blog) | 2020.02.09 | 技术博客 | | 太牛逼的神人 |
+| [神三元的博客](https://github.com/sanyuan0704/my_blog) | 2020.02.12 | 技术博客 | | 一个不错的前端博客 |
+
 
 ### 代码片段
+- 一段非常厉害的印度人写的代码--2020.02.12
+```python
+def serialize_json(json):
+    return str(json).replace("'", "\"").replace("True", "true").replace("False", "false")
+```
 
 ### Read List
 
