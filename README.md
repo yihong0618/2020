@@ -13,6 +13,7 @@
 | [我和Python的故事](https://thautwarm.github.io/Site-32/Fiction/%E6%97%A5%E8%AE%B02019-10-15.html)| 2020.02.09 | 故事 | | 我太菜了 |
 | [图文并茂VLAN详解](https://blog.51cto.com/6930123/2115373)| 2020.02.09 | 网络相关 | | 可能用的到 |
 | [Use the Index, Luke! 笔记1](https://www.kawabangga.com/posts/3893)| 2020.02.12 | 关于SQL索引 | | 值得一看 |
+| [Python中的并发控制](https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html)| 2020.02.13 | 关于并发 | | 可能用的到 |
 
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
@@ -24,6 +25,7 @@
 | [Site 32](https://thautwarm.github.io/Site-32/index.html) | 2020.02.09 | 技术博客 | | 仰望的神人 |
 | [aoik](https://aoik.me/blog) | 2020.02.09 | 技术博客 | | 太牛逼的神人 |
 | [神三元的博客](https://github.com/sanyuan0704/my_blog) | 2020.02.12 | 技术博客 | | 一个不错的前端博客 |
+| [始终](https://liam.page/) | 2020.02.12 | 技术博客 | | 一个有趣的人 |
 
 
 ### 代码片段
