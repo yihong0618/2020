@@ -25,7 +25,7 @@
 | [Site 32](https://thautwarm.github.io/Site-32/index.html) | 2020.02.09 | 技术博客 | | 仰望的神人 |
 | [aoik](https://aoik.me/blog) | 2020.02.09 | 技术博客 | | 太牛逼的神人 |
 | [神三元的博客](https://github.com/sanyuan0704/my_blog) | 2020.02.12 | 技术博客 | | 一个不错的前端博客 |
-| [始终](https://liam.page/) | 2020.02.12 | 技术博客 | | 一个有趣的人 |
+| [始终](https://liam.page/) | 2020.02.13 | 技术博客 | | 一个有趣的人 |
 
 
 ### 代码片段
@@ -36,6 +36,10 @@ def serialize_json(json):
 ```
 
 ### Read List
+#### Reading
+- 《深入理解计算机系统》
+#### To Read
+- 《计算机网络》
 
 ### Study List
 ---
