@@ -39,6 +39,7 @@ def serialize_json(json):
 ### Read List
 #### Reading
 - 《深入理解计算机系统》
+- [《Beej's Guide to Network Programming 简体中文版》](http://beej-zhcn.netdpi.net/)
 #### To Read
 - 《计算机网络》
 
