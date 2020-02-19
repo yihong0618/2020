@@ -28,6 +28,10 @@
 | [神三元的博客](https://github.com/sanyuan0704/my_blog) | 2020.02.12 | 技术博客 | | 一个不错的前端博客 |
 | [始终](https://liam.page/) | 2020.02.13 | 技术博客 | | 一个有趣的人 |
 | [meik2333](https://meik2333.com/) | 2020.02.16 | 技术博客 | | 用gist写博客挺好玩 |
+| [极客兔兔](https://geektutu.com/) | 2020.02.19 | 技术博客 | | Go语言相关 |
+| [锣哥哥の部落格](https://luogg.club/) | 2020.02.19 | 人文博客 | | 很美 |
+
+
 
 
 ### 代码片段
@@ -45,5 +49,7 @@ def serialize_json(json):
 - 《计算机网络》
 
 ### Study List
+- [7days-golang](https://github.com/geektutu/7days-golang)
 ---
 ## 2020 Status Table
+
