@@ -15,6 +15,7 @@
 | [Use the Index, Luke! 笔记1](https://www.kawabangga.com/posts/3893)| 2020.02.12 | 关于SQL索引 | | 值得一看 |
 | [Python中的并发控制](https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html)| 2020.02.13 | 关于并发 | | 可能用的到 |
 | [Python 中的黑暗角落（三）：模块与包](https://liam.page/2017/07/23/modules-and-packages-of-python/)| 2020.02.13 | 模块和包 | | 这块掌握的不好 |
+| [使用 Python 内置的单元测试框架](https://www.hongweipeng.com/index.php/archives/1916/)| 2020.02.20 | 测试相关 | | 把测试用起来 |
 
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
