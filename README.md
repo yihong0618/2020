@@ -49,7 +49,7 @@ def serialize_json(json):
 - 《计算机网络》
 
 ### Study List
-- [7days-golang](https://github.com/geektutu/7days-golang)
+- [ ] [7days-golang](https://github.com/geektutu/7days-golang)
 ---
 ## 2020 Status Table
 
