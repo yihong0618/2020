@@ -31,6 +31,8 @@
 | [meik2333](https://meik2333.com/) | 2020.02.16 | 技术博客 | | 用gist写博客挺好玩 |
 | [极客兔兔](https://geektutu.com/) | 2020.02.19 | 技术博客 | | Go语言相关 |
 | [锣哥哥の部落格](https://luogg.club/) | 2020.02.19 | 人文博客 | | 很美 |
+| [忘归](http://jalan.space/) | 2020.02.20 | 技术博客 | | Python&Go |
+
 
 
 
