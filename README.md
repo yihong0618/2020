@@ -53,6 +53,7 @@ def serialize_json(json):
 
 ### Study List
 - [ ] [7days-golang](https://github.com/geektutu/7days-golang)
+- [ ] [看见统计](https://seeing-theory.brown.edu/basic-probability/cn.html)
 ---
 ## 2020 Status Table
 
