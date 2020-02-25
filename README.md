@@ -54,6 +54,7 @@ def serialize_json(json):
 ### Study List
 - [ ] [7days-golang](https://github.com/geektutu/7days-golang)
 - [ ] [看见统计](https://seeing-theory.brown.edu/basic-probability/cn.html)
+- [ ] [深入理解 Vue.js 实战](https://github.com/godbasin/vue-ebook)
 ---
 ## 2020 Status Table
 
