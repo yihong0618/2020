@@ -16,6 +16,8 @@
 | [Python中的并发控制](https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html)| 2020.02.13 | 关于并发 | | 可能用的到 |
 | [Python 中的黑暗角落（三）：模块与包](https://liam.page/2017/07/23/modules-and-packages-of-python/)| 2020.02.13 | 模块和包 | | 这块掌握的不好 |
 | [使用 Python 内置的单元测试框架](https://www.hongweipeng.com/index.php/archives/1916/)| 2020.02.20 | 测试相关 | | 把测试用起来 |
+| [第一次正儿八经的实习](https://hunterlxt.github.io/2019/07/06/Intern/)| 2020.02.20 | 成长相关 | | 很受触动 |
+
 
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
@@ -33,8 +35,6 @@
 | [锣哥哥の部落格](https://luogg.club/) | 2020.02.19 | 人文博客 | | 很美 |
 | [忘归](http://jalan.space/) | 2020.02.20 | 技术博客 | | Python&Go |
 | [书鱼](https://st4ck.gitee.io/) | 2020.02.24 | 技术博客 | | 安全相关 |
-
-
 
 
 ### 代码片段
