@@ -35,7 +35,7 @@
 | [锣哥哥の部落格](https://luogg.club/) | 2020.02.19 | 人文博客 | | 很美 |
 | [忘归](http://jalan.space/) | 2020.02.20 | 技术博客 | | Python&Go |
 | [书鱼](https://st4ck.gitee.io/) | 2020.02.24 | 技术博客 | | 安全相关 |
-| [cosven](hhttp://cosven.me/) | 2020.03.04 | 技术博客 | | Python |
+| [cosven](http://cosven.me/) | 2020.03.04 | 技术博客 | | Python |
 
 ### 代码片段
 - 一段非常厉害的印度人写的代码--2020.02.12
