@@ -18,7 +18,7 @@
 | [使用 Python 内置的单元测试框架](https://www.hongweipeng.com/index.php/archives/1916/)| 2020.02.20 | 测试相关 | | 把测试用起来 |
 | [第一次正儿八经的实习](https://hunterlxt.github.io/2019/07/06/Intern/)| 2020.02.20 | 成长相关 | | 很受触动 |
 | [如何管理自己的时间资产](https://draveness.me/few-words-time-management)| 2020.03.05 | 学习 | | 时间管理 |
-
+| [值得夸耀的 bottle 微框架源代码之剖析](hhttps://arianx.me/2018/11/27/bottle-source-code-analysis/)| 2020.03.10 | 学习 | | bottle框架 |
 
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
@@ -26,7 +26,6 @@
 | [Vaidehi Joshi](https://medium.com/@vaidehijoshi) | 2020.01.10 | 技术博客 | | 非常详细的图文介绍 |
 | [Himself65 Blog](https://www.himself65.com/) | 2020.01.13 | 技术博客 | | 这个人太厉害了学习 |
 | [拖鞋](http://yanyiwu.com/blog.html) | 2020.02.01 | 技术博客 | | Go语言，结巴分词 |
-| [不发光的博客](https://www.daolf.com/posts/git-series-part-1/) | 2020.02.04 | 技术博客 | | 安全相关 |
 | [Site 32](https://thautwarm.github.io/Site-32/index.html) | 2020.02.09 | 技术博客 | | 仰望的神人 |
 | [aoik](https://aoik.me/blog) | 2020.02.09 | 技术博客 | | 太牛逼的神人 |
 | [神三元的博客](https://github.com/sanyuan0704/my_blog) | 2020.02.12 | 技术博客 | | 一个不错的前端博客 |
@@ -38,12 +37,20 @@
 | [书鱼](https://st4ck.gitee.io/) | 2020.02.24 | 技术博客 | | 安全相关 |
 | [cosven](http://cosven.me/) | 2020.03.04 | 技术博客 | | Python |
 | [labuladong的算法小抄](https://labuladong.gitbook.io/algo/) | 2020.03.05 | 技术博客 | | 算法相关 |
+| [Arian's Blog](https://arianx.me/archives/) | 2020.03.10 | 技术博客 | | Python相关 |
 
 ### 代码片段
 - 一段非常厉害的印度人写的代码--2020.02.12
 ```python
 def serialize_json(json):
     return str(json).replace("'", "\"").replace("True", "true").replace("False", "false")
+```
+- 一段值得思考的代码（面试可用）
+```python
+def f(x=[])
+    x.append(1)
+    return x
+print(f(), f())
 ```
 
 ### Read List
