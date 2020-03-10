@@ -18,7 +18,7 @@
 | [使用 Python 内置的单元测试框架](https://www.hongweipeng.com/index.php/archives/1916/)| 2020.02.20 | 测试相关 | | 把测试用起来 |
 | [第一次正儿八经的实习](https://hunterlxt.github.io/2019/07/06/Intern/)| 2020.02.20 | 成长相关 | | 很受触动 |
 | [如何管理自己的时间资产](https://draveness.me/few-words-time-management)| 2020.03.05 | 学习 | | 时间管理 |
-| [值得夸耀的 bottle 微框架源代码之剖析](hhttps://arianx.me/2018/11/27/bottle-source-code-analysis/)| 2020.03.10 | 学习 | | bottle框架 |
+| [值得夸耀的 bottle 微框架源代码之剖析](https://arianx.me/2018/11/27/bottle-source-code-analysis/)| 2020.03.10 | 学习 | | bottle框架 |
 
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
