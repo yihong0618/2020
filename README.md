@@ -65,6 +65,7 @@ print(f(), f())
 - [ ] [7days-golang](https://github.com/geektutu/7days-golang)
 - [ ] [看见统计](https://seeing-theory.brown.edu/basic-probability/cn.html)
 - [ ] [深入理解 Vue.js 实战](https://github.com/godbasin/vue-ebook)
+- [ ] [How does a relational database work](http://coding-geek.com/how-databases-work/)
 ---
 ## 2020 Status Table
 
