@@ -9,7 +9,7 @@
 | [GitHub Actions实战：知乎倒闭了吗？](https://www.himself65.com/shitty-zhihu/)| 2020.01.13 | 技巧文章 | | 需要学习 |
 | [Deploying a full Django stack with Docker-Compose](https://www.capside.com/labs/deploying-full-django-stack-with-docker-compose/)| 2020.01.14 | 教程文章 | | English |
 | [Pythonic code review](https://access.redhat.com/blogs/766093/posts/2802001)| 2020.01.30 | 值得多看的文章 | | English |
-| [PGit series 1/3: Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)| 2020.02.05 | 系列文章 | | English |
+| [PGit series 1/3 ](https://www.daolf.com/posts/git-series-part-1/)| 2020.02.05 | 系列文章 | | English |
 | [我和Python的故事](https://thautwarm.github.io/Site-32/Fiction/%E6%97%A5%E8%AE%B02019-10-15.html)| 2020.02.09 | 故事 | | 我太菜了 |
 | [图文并茂VLAN详解](https://blog.51cto.com/6930123/2115373)| 2020.02.09 | 网络相关 | | 可能用的到 |
 | [Use the Index, Luke! 笔记1](https://www.kawabangga.com/posts/3893)| 2020.02.12 | 关于SQL索引 | | 值得一看 |
@@ -20,6 +20,7 @@
 | [如何管理自己的时间资产](https://draveness.me/few-words-time-management)| 2020.03.05 | 学习 | | 时间管理 |
 | [值得夸耀的 bottle 微框架源代码之剖析](https://arianx.me/2018/11/27/bottle-source-code-analysis/)| 2020.03.10 | 学习 | | bottle框架 |
 | [The mythical 10x programmer](http://antirez.com/news/112)| 2020.03.11 | 牛逼 | | 10x程序员 |
+| [Python: Introduction To Itertools](https://florian-dahlitz.de/blog/introduction-to-itertools)| 2020.03.18 | tools | | Python相关 |
 
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
