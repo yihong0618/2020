@@ -40,6 +40,7 @@
 | [cosven](http://cosven.me/) | 2020.03.04 | 技术博客 | | Python |
 | [labuladong的算法小抄](https://labuladong.gitbook.io/algo/) | 2020.03.05 | 技术博客 | | 算法相关 |
 | [Arian's Blog](https://arianx.me/archives/) | 2020.03.10 | 技术博客 | | Python相关 |
+| [Hacking8](https://www.hacking8.com/) | 2020.03.19 | 黑客编程 | | 安全相关 |
 
 ### 代码片段
 - 一段非常厉害的印度人写的代码--2020.02.12
