@@ -72,5 +72,26 @@ print(f(), f())
 - [ ] [深入理解 Vue.js 实战](https://github.com/godbasin/vue-ebook)
 - [ ] [How does a relational database work](http://coding-geek.com/how-databases-work/)
 ---
+### 读书, 观影，追番，刷剧记录 (Start recording at 2020.3.23)
+
+#### 读书
+
+- 《恶意》
+- 《虚无的十字架》
+- 《刺杀骑士团长》 start： 2020.3.23 | end: 
+
+#### 观影
+
+- 《英雄本色1》 start: 2020.3.22 | end: 2020.3.22
+
+#### 刷剧
+
+- 《下辈子要好好过》
+- 《西部世界3》
+
+#### 追番
+
+- 《异度侵入》 start: ??? | end: 2020.3.23
+
 ## 2020 Status Table
 
