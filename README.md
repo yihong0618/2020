@@ -71,6 +71,7 @@ print(f(), f())
 - [ ] [看见统计](https://seeing-theory.brown.edu/basic-probability/cn.html)
 - [ ] [深入理解 Vue.js 实战](https://github.com/godbasin/vue-ebook)
 - [ ] [How does a relational database work](http://coding-geek.com/how-databases-work/)
+- [ ] [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
 ---
 ### 读书, 观影，追番，刷剧记录 (Start recording at 2020.3.23)
 
