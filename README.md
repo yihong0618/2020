@@ -73,7 +73,7 @@ print(f(), f())
 - [ ] [How does a relational database work](http://coding-geek.com/how-databases-work/)
 - [ ] [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
 ---
-### 读书, 观影，追番，刷剧记录 (Start recording at 2020.3.23)
+### 读书, 观影，追番，刷剧，做饭记录 (Start recording at 2020.3.23)
 
 #### 读书
 
@@ -93,6 +93,12 @@ print(f(), f())
 #### 追番
 
 - 《异度侵入》 start: ??? | end: 2020.3.23
+
+#### 做饭
+
+- 红烧排骨 2020.3.28
+- 回锅肉 2020.3.29
+- 麻辣香锅 2020.3.30
 
 ## 2020 Status Table
 
