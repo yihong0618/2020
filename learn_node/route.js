@@ -8,13 +8,13 @@ function upload(message) {
     console.log("Upload" + message)
 }
 
-function route(pathname, handle) {
+function route(pathname, handle, response) {
   console.log("About to route a request for " + pathname);
   if (typeof handle[pathname] === 'function') {
-    console.log(22222222222222222);
-    handle[pathname]();
+    return handle[pathname](response);
   } else {
-    console.log("No request handler found for " + pathname);
+      return "no route found"
+
   }
 }
 
