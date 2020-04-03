@@ -72,7 +72,7 @@ print(f(), f())
 - [ ] [深入理解 Vue.js 实战](https://github.com/godbasin/vue-ebook)
 - [ ] [How does a relational database work](http://coding-geek.com/how-databases-work/)
 - [ ] [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
-- [ ] [Node入门](https://www.nodebeginner.org/index-zh-cn.html)
+- [x] [Node入门](https://www.nodebeginner.org/index-zh-cn.html) -- 2020.04.03
 - [ ] [日语语法指南](https://res.wokanxing.info/jpgramma/)
 ---
 ### 读书, 观影，追番，刷剧，做饭记录 (Start recording at 2020.3.23)
