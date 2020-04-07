@@ -23,6 +23,7 @@
 | [Python: Introduction To Itertools](https://florian-dahlitz.de/blog/introduction-to-itertools)| 2020.03.18 | tools | | Python相关 |
 | [SED 简明教程](https://coolshell.cn/articles/9104.html)| 2020.03.19 | sed | | **sed学习** |
 | [Why I Quit Social Media and News Apps](https://leihuang.dev/2020/why-i-quit-social-media-and-news-apps/)| 2020.03.19 | 思考 | | English |
+| [Tinyhttpd 源码解析](https://hanfeng.ink/post/tinyhttpd/)| 2020.04.07 | 学习 | | 学习 |
 
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
