@@ -25,6 +25,7 @@
 | [Why I Quit Social Media and News Apps](https://leihuang.dev/2020/why-i-quit-social-media-and-news-apps/)| 2020.03.19 | 思考 | | English |
 | [Tinyhttpd 源码解析](https://hanfeng.ink/post/tinyhttpd/)| 2020.04.07 | 学习 | | 学习 |
 | [理解 Python asyncio](https://lotabout.me/2017/understand-python-asyncio/)| 2020.04.08 | 学习 | | Python |
+| [BUILD A WEB FRAMEWORK!](https://jacobian.github.io/pycon2017/#/)| 2020.04.09 | Python | | Python |
 
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
@@ -47,6 +48,11 @@
 | [Hacking8](https://www.hacking8.com/) | 2020.03.19 | 黑客编程 | | 安全相关 |
 | [Ned Batchelder](https://nedbatchelder.com/blog/) | 2020.03.20 | Python | | Python |
 | [三点水](https://lotabout.me/archives/) | 2020.03.20 | Python | | Python |
+
+### 收藏的视频
+| 视频名称 | 添加日期 | type | 重看日期 | 备注 |
+| ------- | ------- | ------- | ------- | -------|
+| [build a web framework](https://www.youtube.com/watch?v=7kwnjoAJ2HQ&t=) | 2020.04.09 | Python | | 3小时 |
 
 ### 代码片段
 - 一段非常厉害的印度人写的代码--2020.02.12
