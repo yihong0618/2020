@@ -83,6 +83,7 @@ print(f(), f())
 - [ ] [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
 - [x] [Node入门](https://www.nodebeginner.org/index-zh-cn.html) -- 2020.04.03
 - [ ] [日语语法指南](https://res.wokanxing.info/jpgramma/)
+- [ ] [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
 ---
 ### 读书, 观影，追番，游戏，刷剧，做饭记录 (Start recording at 2020.3.23)
 
