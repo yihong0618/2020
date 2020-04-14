@@ -83,6 +83,7 @@ print(f(), f())
 - [ ] [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
 - [x] [Node入门](https://www.nodebeginner.org/index-zh-cn.html) -- 2020.04.03
 - [ ] [日语语法指南](https://res.wokanxing.info/jpgramma/)
+- [ ] [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
 ---
 ### 读书, 观影，追番，游戏，刷剧，做饭记录 (Start recording at 2020.3.23)
 
@@ -95,8 +96,9 @@ print(f(), f())
  
 #### 观影
 
-- 《英雄本色1》 start: 2020.03.22 | end: 2020.03.22
-- 《白日焰火》  start: 2020.04.09 | end: 2020.04.09
+- 《英雄本色1》          start: 2020.03.22 | end: 2020.03.22
+- 《白日焰火》           start: 2020.04.09 | end: 2020.04.09
+- 《神探夏洛克电影版本》   start: 2020.04.11 | end: 2020.04.12
 
 #### 刷剧
 
@@ -120,6 +122,7 @@ print(f(), f())
 - 京酱肉丝 2020.4.5
 - 辣白菜炒五花肉 2020.4.6
 - 黄瓜片 2020.4.6
+- 火爆大头菜 2020.4，12
 
 ## 个人管理
 
