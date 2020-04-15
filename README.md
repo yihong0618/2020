@@ -26,6 +26,7 @@
 | [Tinyhttpd 源码解析](https://hanfeng.ink/post/tinyhttpd/)| 2020.04.07 | 学习 | | 学习 |
 | [理解 Python asyncio](https://lotabout.me/2017/understand-python-asyncio/)| 2020.04.08 | 学习 | | Python |
 | [BUILD A WEB FRAMEWORK!](https://jacobian.github.io/pycon2017/#/)| 2020.04.09 | Python | | Python |
+| [机器学习简介](https://zgjx6.github.io/2019/03/06/机器学习简介/)| 2020.04.15 | 机器学习 | | Python |
 
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
