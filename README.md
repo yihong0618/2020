@@ -49,6 +49,7 @@
 | [Hacking8](https://www.hacking8.com/) | 2020.03.19 | 黑客编程 | | 安全相关 |
 | [Ned Batchelder](https://nedbatchelder.com/blog/) | 2020.03.20 | Python | | Python |
 | [三点水](https://lotabout.me/archives/) | 2020.03.20 | Python | | Python |
+| [cizixs](https://cizixs.com/) | 2020.03.20 | 很多技术 | | 很多技术 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
@@ -85,6 +86,7 @@ print(f(), f())
 - [x] [Node入门](https://www.nodebeginner.org/index-zh-cn.html) -- 2020.04.03
 - [ ] [日语语法指南](https://res.wokanxing.info/jpgramma/)
 - [ ] [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
+- [ ] [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)
 ---
 ### 读书, 观影，追番，游戏，刷剧，做饭记录 (Start recording at 2020.3.23)
 
