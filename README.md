@@ -72,13 +72,18 @@ print(f(), f())
 ```
 
 ### Read List
+
 #### Reading
+
 - 《深入理解计算机系统》
 - [《Beej's Guide to Network Programming 简体中文版》](http://beej-zhcn.netdpi.net/)
+
 #### To Read
+
 - 《计算机网络》
 
 ### Study List
+
 - [ ] [7days-golang](https://github.com/geektutu/7days-golang)
 - [ ] [看见统计](https://seeing-theory.brown.edu/basic-probability/cn.html)
 - [ ] [深入理解 Vue.js 实战](https://github.com/godbasin/vue-ebook)
@@ -98,6 +103,7 @@ print(f(), f())
 - 《虚无的十字架》
 - 《刺杀骑士团长》 start: 2020.03.23 | end: 2020.4.1
 - 《古董局中局4》  start: 2020.04.03 | end: 2020.4.4
+- 《沉默的巡游》   start: 2020.04.18 | end: 2020.4.20
  
 #### 观影
 
@@ -128,8 +134,13 @@ print(f(), f())
 - 京酱肉丝 2020.4.5
 - 辣白菜炒五花肉 2020.4.6
 - 黄瓜片 2020.4.6
-- 火爆大头菜 2020.4，12
+- 火爆大头菜 2020.4.12
+- 酱牛肉 2020.4.20
 
 ## 个人管理
+
+- OKR 1 减肥
+- OKR 2 日语
+- OKR 3 精进编程能力
 
 ## 2020 Status Table
