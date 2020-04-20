@@ -51,6 +51,8 @@
 | [Ned Batchelder](https://nedbatchelder.com/blog/) | 2020.03.20 | Python | | Python |
 | [三点水](https://lotabout.me/archives/) | 2020.03.20 | Python | | Python |
 | [cizixs](https://cizixs.com/) | 2020.03.20 | 很多技术 | | 很多技术 |
+| [boyaziqi](https://boyaziqi.github.io/archives.html) | 2020.04.20 | 值得学习 | | 值得学习 |
+
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
