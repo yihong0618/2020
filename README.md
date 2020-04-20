@@ -92,7 +92,7 @@ print(f(), f())
 - [x] [Node入门](https://www.nodebeginner.org/index-zh-cn.html) -- 2020.04.03
 - [ ] [日语语法指南](https://res.wokanxing.info/jpgramma/)
 - [ ] [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
-- [ ] [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)
+- [x] [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)
 - [ ] [BASH教程](https://wangdoc.com/bash/intro.html)
 ---
 ### 读书, 观影，追番，游戏，刷剧，做饭记录 (Start recording at 2020.3.23)
