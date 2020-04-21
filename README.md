@@ -96,6 +96,7 @@ print(f(), f())
 - [ ] [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
 - [x] [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)
 - [ ] [BASH教程](https://wangdoc.com/bash/intro.html)
+- [ ] [SCIP](https://github.com/lfkdsk/SICP-Magical-Book)
 ---
 ### 读书, 观影，追番，游戏，刷剧，做饭记录 (Start recording at 2020.3.23)
 
