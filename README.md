@@ -52,6 +52,7 @@
 | [三点水](https://lotabout.me/archives/) | 2020.03.20 | Python | | Python |
 | [cizixs](https://cizixs.com/) | 2020.03.20 | 很多技术 | | 很多技术 |
 | [boyaziqi](https://boyaziqi.github.io/archives.html) | 2020.04.20 | 值得学习 | | 值得学习 |
+| [Kuhung's Blog](https://kuhungio.me/posts/) | 2020.04.22 | 机器学习 | | 机器学习 |
 
 
 ### 收藏的视频
