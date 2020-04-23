@@ -59,6 +59,7 @@
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
 | ------- | ------- | ------- | ------- | -------|
 | [build a web framework](https://www.youtube.com/watch?v=7kwnjoAJ2HQ&t=) | 2020.04.09 | Python | | 3小时 |
+| [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) | 2020.04.23 | Python | | 1小时 |
 
 ### 代码片段
 - 一段非常厉害的印度人写的代码--2020.02.12
