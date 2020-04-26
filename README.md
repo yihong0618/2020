@@ -76,6 +76,11 @@ def f(x=[])
     return x
 print(f(), f())
 ```
+- 如何判断一个list是否所有值都一样
+```python
+a[1:] == a[:-1]
+len(set(list(a))) == 1
+```
 
 ### Read List
 
