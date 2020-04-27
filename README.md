@@ -88,6 +88,7 @@ len(set(list(a))) == 1
 
 - 《深入理解计算机系统》
 - [《Beej's Guide to Network Programming 简体中文版》](http://beej-zhcn.netdpi.net/)
+- [fastai book](https://github.com/fastai/fastbook)
 
 #### To Read
 
@@ -104,7 +105,7 @@ len(set(list(a))) == 1
 - [ ] [日语语法指南](https://res.wokanxing.info/jpgramma/)
 - [ ] [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
 - [x] [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)
-- [ ] [BASH教程](https://wangdoc.com/bash/intro.html)
+- [x] [BASH教程](https://wangdoc.com/bash/intro.html) ----写的不好
 - [ ] [Discovering the terminal](https://blog.balthazar-rouberol.com/discovering-the-terminal)
 - [ ] [SCIP](https://github.com/lfkdsk/SICP-Magical-Book)
 
