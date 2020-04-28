@@ -93,6 +93,8 @@ len(set(list(a))) == 1
 #### To Read
 
 - 《计算机网络》
+- [《Linux C一站式学习》](https://docs.huihoo.com/c/linux-c-programming/)
+- [C语言程序设计: 现代方法](https://book.douban.com/subject/4279678/)
 
 ### Study List
 
