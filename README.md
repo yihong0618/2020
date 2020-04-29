@@ -108,7 +108,7 @@ len(set(list(a))) == 1
 - [ ] [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
 - [x] [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)
 - [x] [BASH教程](https://wangdoc.com/bash/intro.html) ----写的不好
-- [ ] [Discovering the terminal](https://blog.balthazar-rouberol.com/discovering-the-terminal)
+- [x] [Discovering the terminal](https://blog.balthazar-rouberol.com/discovering-the-terminal)
 - [ ] [SCIP](https://github.com/lfkdsk/SICP-Magical-Book)
 
 ---
