@@ -55,6 +55,7 @@
 | [boyaziqi](https://boyaziqi.github.io/archives.html) | 2020.04.20 | 值得学习 | | 值得学习 |
 | [Kuhung's Blog](https://kuhungio.me/posts/) | 2020.04.22 | 机器学习 | | 机器学习 |
 | [hillelwayne](https://hillelwayne.com/post/) | 2020.04.23 | 大牛 | | 英文 |
+| [jamie.build](https://jamie.build/) | 2020.04.23 | 教学 | | 英文 |
 
 
 ### 收藏的视频
@@ -108,7 +109,7 @@ len(set(list(a))) == 1
 - [ ] [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
 - [x] [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)
 - [x] [BASH教程](https://wangdoc.com/bash/intro.html) ----写的不好
-- [ ] [Discovering the terminal](https://blog.balthazar-rouberol.com/discovering-the-terminal)
+- [x] [Discovering the terminal](https://blog.balthazar-rouberol.com/discovering-the-terminal)
 - [ ] [SCIP](https://github.com/lfkdsk/SICP-Magical-Book)
 
 ---
