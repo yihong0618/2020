@@ -55,6 +55,7 @@
 | [boyaziqi](https://boyaziqi.github.io/archives.html) | 2020.04.20 | 值得学习 | | 值得学习 |
 | [Kuhung's Blog](https://kuhungio.me/posts/) | 2020.04.22 | 机器学习 | | 机器学习 |
 | [hillelwayne](https://hillelwayne.com/post/) | 2020.04.23 | 大牛 | | 英文 |
+| [jamie.build](https://jamie.build/) | 2020.04.23 | 教学 | | 英文 |
 
 
 ### 收藏的视频
