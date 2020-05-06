@@ -111,6 +111,7 @@ len(set(list(a))) == 1
 - [x] [BASH教程](https://wangdoc.com/bash/intro.html) ----写的不好
 - [x] [Discovering the terminal](https://blog.balthazar-rouberol.com/discovering-the-terminal)
 - [ ] [SCIP](https://github.com/lfkdsk/SICP-Magical-Book)
+- [ ] [FAST AI](https://course.fast.ai/videos/?lesson=1)
 
 ---
 ### 读书, 观影，追番，游戏，刷剧，做饭记录 (Start recording at 2020.3.23)
@@ -129,7 +130,8 @@ len(set(list(a))) == 1
 - 《白日焰火》           start: 2020.04.09 | end: 2020.04.09
 - 《神探夏洛克电影版》    start: 2020.04.11 | end: 2020.04.12
 - 《致命魔术》           start: 2020.04.15 | end: 2020.04.15
-- 《利刃出鞘》           start: 2020.05.03 | end: 2020.05.04 
+- 《利刃出鞘》           start: 2020.05.03 | end: 2020.05.04
+- 《邪不压正》           start: 2020.05.05 | end: 2020.05.05
 
 #### 刷剧
 
