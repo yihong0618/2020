@@ -56,6 +56,8 @@
 | [Kuhung's Blog](https://kuhungio.me/posts/) | 2020.04.22 | 机器学习 | | 机器学习 |
 | [hillelwayne](https://hillelwayne.com/post/) | 2020.04.23 | 大牛 | | 英文 |
 | [jamie.build](https://jamie.build/) | 2020.04.23 | 教学 | | 英文 |
+| [穷佐罗的Linux书](https://zorrozou.github.io/) | 2020.05.06 | Linux | | Linux |
+
 
 
 ### 收藏的视频
