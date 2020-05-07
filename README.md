@@ -23,12 +23,13 @@
 | [Python: Introduction To Itertools](https://florian-dahlitz.de/blog/introduction-to-itertools)| 2020.03.18 | tools | | Python相关 |
 | [SED 简明教程](https://coolshell.cn/articles/9104.html)| 2020.03.19 | sed | | **sed学习** |
 | [Why I Quit Social Media and News Apps](https://leihuang.dev/2020/why-i-quit-social-media-and-news-apps/)| 2020.03.19 | 思考 | | English |
-| [Tinyhttpd 源码解析](https://hanfeng.ink/post/tinyhttpd/)| 2020.04.07 | 学习 | 2020.04.28 | 学习 |
+| [Tinyhttpd 源码解析](https://hanfeng.ink/post/tinyhttpd/) [另一个](https://phenix3443.github.io/notebook/c/tinyhttpd-analysis.html)| 2020.04.07 | 学习 | 2020.04.28 | 学习 |
 | [理解 Python asyncio](https://lotabout.me/2017/understand-python-asyncio/)| 2020.04.08 | 学习 | | Python |
 | [BUILD A WEB FRAMEWORK!](https://jacobian.github.io/pycon2017/#/)| 2020.04.09 | Python | | Python |
 | [机器学习简介](https://zgjx6.github.io/2019/03/06/机器学习简介/)| 2020.04.15 | 机器学习 | | Python |
 | [RESTful API](https://levelup.gitconnected.com/restful-api-designing-guidelines-the-best-practices-4b3a72634a51)| 2020.04.17 | API | | API |
 | [浅谈服务端编程](http://www.0xffffff.org/2014/11/20/33-servie-program/)| 2020.04.23 | 服务器 | | 服务器 |
+
 
 ### 收藏的博客
 | 博客名称 | 添加日期 | type | 重看日期 | 备注 |
@@ -58,8 +59,6 @@
 | [jamie.build](https://jamie.build/) | 2020.04.23 | 教学 | | 英文 |
 | [穷佐罗的Linux书](https://zorrozou.github.io/) | 2020.05.06 | Linux | | Linux |
 
-
-
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
 | ------- | ------- | ------- | ------- | -------|
@@ -74,7 +73,7 @@ def serialize_json(json):
 ```
 - 一段值得思考的代码（面试可用）
 ```python
-def f(x=[])
+def f(x=[]):
     x.append(1)
     return x
 print(f(), f())
