@@ -113,6 +113,7 @@ len(set(list(a))) == 1
 - [ ] [正则](https://refrf.shreyasminocha.me/)
 - [ ] [REACT 全栈](https://fullstackopen.com/zh)
 - [ ] [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/#readability-vs-speed)
+- [ ] [C DB](https://cstack.github.io/db_tutorial/)
 
 ---
 ### 读书, 观影，追番，游戏，刷剧，做饭记录 (Start recording at 2020.3.23)
@@ -174,7 +175,7 @@ len(set(list(a))) == 1
   5. 到年底不反弹
 - OKR 2 日语
   1. 每天坚持学1小时
-  2. 每天看番，或日语相关得
+  2. 每天看番，或日语相关的
   3. 年底考个3级
 - OKR 3 精进编程能力
   1. 每天记录学习内容
