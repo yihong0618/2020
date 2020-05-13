@@ -1,5 +1,5 @@
 # 2020
-2020计划，喜欢的文章，收藏的文章，博客，以及其它
+我的2020
 
 ---
 ### 收藏的文章
@@ -91,19 +91,16 @@ len(set(list(a))) == 1
 - 《深入理解计算机系统》
 - [《Beej's Guide to Network Programming 简体中文版》](http://beej-zhcn.netdpi.net/)
 - [fastai book](https://github.com/fastai/fastbook)
+- [《Linux C一站式学习》](https://docs.huihoo.com/c/linux-c-programming/)
 
 #### To Read
 
 - 《计算机网络》
-- [《Linux C一站式学习》](https://docs.huihoo.com/c/linux-c-programming/)
 - [C语言程序设计: 现代方法](https://book.douban.com/subject/4279678/)
 
 ### Study List
 
-- [ ] [7days-golang](https://github.com/geektutu/7days-golang)
-- [ ] [看见统计](https://seeing-theory.brown.edu/basic-probability/cn.html)
 - [ ] [深入理解 Vue.js 实战](https://github.com/godbasin/vue-ebook)
-- [ ] [How does a relational database work](http://coding-geek.com/how-databases-work/)
 - [ ] [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
 - [x] [Node入门](https://www.nodebeginner.org/index-zh-cn.html) -- 2020.04.03
 - [ ] [日语语法指南](https://res.wokanxing.info/jpgramma/)
@@ -113,6 +110,9 @@ len(set(list(a))) == 1
 - [x] [Discovering the terminal](https://blog.balthazar-rouberol.com/discovering-the-terminal)
 - [ ] [SCIP](https://github.com/lfkdsk/SICP-Magical-Book)
 - [ ] [FAST AI](https://course.fast.ai/videos/?lesson=1)
+- [ ] [正则](https://refrf.shreyasminocha.me/)
+- [ ] [REACT 全栈](https://fullstackopen.com/zh)
+- [ ] [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/#readability-vs-speed)
 
 ---
 ### 读书, 观影，追番，游戏，刷剧，做饭记录 (Start recording at 2020.3.23)
@@ -124,6 +124,7 @@ len(set(list(a))) == 1
 - 《刺杀骑士团长》 start: 2020.03.23 | end: 2020.4.1
 - 《古董局中局4》  start: 2020.04.03 | end: 2020.4.4
 - 《沉默的巡游》   start: 2020.04.18 | end: 2020.4.20
+- 《经济解释》     start: 2020.05.03 |
  
 #### 观影
 
@@ -137,11 +138,12 @@ len(set(list(a))) == 1
 #### 刷剧
 
 - 《下辈子要好好过》
-- 《西部世界3》
+- 《西部世界3》 --2020.05.06 追完--跌落神坛
 
 #### 追番
 
 - 《异度侵入》 start: ??? | end: 2020.3.23
+- 《青春猪头少年不会梦到兔女郎学姐》 start: 2020.05.06
 
 #### 游戏
 
@@ -149,22 +151,36 @@ len(set(list(a))) == 1
 
 #### 做饭
 
-- 红烧排骨 2020.3.28
-- 回锅肉 2020.3.29
-- 麻辣香锅 2020.3.30
-- 小牛饭 2020.4.4
-- 京酱肉丝 2020.4.5
-- 辣白菜炒五花肉 2020.4.6
-- 黄瓜片 2020.4.6
-- 火爆大头菜 2020.4.12
-- 酱牛肉 2020.4.19
-- 红烧排骨 2020.05.02
+- 红烧排骨 2020.03.28, 2020.05.02
+- 回锅肉 2020.03.29
+- 麻辣香锅 2020.03.30, 2020.05.05
+- 小牛饭 2020.04.04
+- 京酱肉丝 2020.04.05
+- 辣白菜炒五花肉 2020.04.06
+- 黄瓜片 2020.04.06
+- 火爆大头菜 2020.04.12
+- 酱牛肉 2020.04.19
 - 红烧肉 2020.05.04
+- 肉丸子 2020.05.10
+- 尖椒干豆腐 2020.05.10
 
 ## 个人管理
 
 - OKR 1 减肥
+  1. 2020.05.06开始， 每个月减10斤
+  2. 2020.09.01第一阶段结束，第二阶段是保持
+  3. 跑步恢复到半马水平，恢复到5min30s/km
+  4. 瘦到140斤-130斤
+  5. 到年底不反弹
 - OKR 2 日语
+  1. 每天坚持学1小时
+  2. 每天看番，或日语相关得
+  3. 年底考个3级
 - OKR 3 精进编程能力
+  1. 每天记录学习内容
+  2. 做减法，先修内功
+  3. 今年的新编程语言是C和Js(入门C精进Js)
+  4. 继续找自己感兴趣的项目
+  5. 工作中严格要求自己
 
 ## 2020 Status Table
