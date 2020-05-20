@@ -29,6 +29,7 @@
 | [机器学习简介](https://zgjx6.github.io/2019/03/06/机器学习简介/)| 2020.04.15 | 机器学习 | | Python |
 | [RESTful API](https://levelup.gitconnected.com/restful-api-designing-guidelines-the-best-practices-4b3a72634a51)| 2020.04.17 | API | | API |
 | [浅谈服务端编程](http://www.0xffffff.org/2014/11/20/33-servie-program/)| 2020.04.23 | 服务器 | | 服务器 |
+| [浅谈服务端编程](http://www.0xffffff.org/2014/11/20/33-servie-program/)| 2020.04.23 | 服务器 | | 服务器 |
 
 
 ### 收藏的博客
@@ -57,7 +58,7 @@
 | [Kuhung's Blog](https://kuhungio.me/posts/) | 2020.04.22 | 机器学习 | | 机器学习 |
 | [hillelwayne](https://hillelwayne.com/post/) | 2020.04.23 | 大牛 | | 英文 |
 | [jamie.build](https://jamie.build/) | 2020.04.23 | 教学 | | 英文 |
-| [穷佐罗的Linux书](https://zorrozou.github.io/) | 2020.05.06 | Linux | | Linux |
+| [数据、计算，以及学习编程](https://www.himself65.com/start-to-learn-programming/) | 2020.05.20 | 编程的本质 | | 编程的本质 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
