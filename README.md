@@ -29,7 +29,7 @@
 | [机器学习简介](https://zgjx6.github.io/2019/03/06/机器学习简介/)| 2020.04.15 | 机器学习 | | Python |
 | [RESTful API](https://levelup.gitconnected.com/restful-api-designing-guidelines-the-best-practices-4b3a72634a51)| 2020.04.17 | API | | API |
 | [浅谈服务端编程](http://www.0xffffff.org/2014/11/20/33-servie-program/)| 2020.04.23 | 服务器 | | 服务器 |
-| [浅谈服务端编程](http://www.0xffffff.org/2014/11/20/33-servie-program/)| 2020.04.23 | 服务器 | | 服务器 |
+| [项目开发总结](https://hanfeng.ink/post/project_thinking/)| 2020.05.25 | 项目 | | 项目经验 |
 
 
 ### 收藏的博客
@@ -165,7 +165,7 @@ len(set(list(a))) == 1
 - 黄瓜片 2020.04.06
 - 火爆大头菜 2020.04.12
 - 酱牛肉 2020.04.19
-- 红烧肉 2020.05.04
+- 红烧肉 2020.05.04, 2020.05.24
 - 肉丸子 2020.05.10
 - 尖椒干豆腐 2020.05.10
 - 溜肉段(失败) 2020.05.16
