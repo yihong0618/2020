@@ -59,6 +59,7 @@
 | [hillelwayne](https://hillelwayne.com/post/) | 2020.04.23 | 大牛 | | 英文 |
 | [jamie.build](https://jamie.build/) | 2020.04.23 | 教学 | | 英文 |
 | [数据、计算，以及学习编程](https://www.himself65.com/start-to-learn-programming/) | 2020.05.20 | 编程的本质 | | 编程的本质 |
+| [机器学习相关](http://codewithzhangyi.com/blog/) | 2020.05.20 | 机器学习 | | 机器学习 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
