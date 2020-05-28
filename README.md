@@ -99,6 +99,7 @@ len(set(list(a))) == 1
 
 - 《计算机网络》
 - [C语言程序设计: 现代方法](https://book.douban.com/subject/4279678/)
+- [写给软件工程师看的硬件编程指南](https://phodal.github.io/make/)
 
 ### Study List
 
