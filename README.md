@@ -29,6 +29,8 @@
 | [机器学习简介](https://zgjx6.github.io/2019/03/06/机器学习简介/)| 2020.04.15 | 机器学习 | | Python |
 | [RESTful API](https://levelup.gitconnected.com/restful-api-designing-guidelines-the-best-practices-4b3a72634a51)| 2020.04.17 | API | | API |
 | [浅谈服务端编程](http://www.0xffffff.org/2014/11/20/33-servie-program/)| 2020.04.23 | 服务器 | | 服务器 |
+| [项目开发总结](https://hanfeng.ink/post/project_thinking/)| 2020.05.25 | 项目 | | 项目经验 |
+| [五月是你的孔乙己](https://www.himself65.com/2020-05/)| 2020.05.25 | 触动 | | 触动 |
 
 
 ### 收藏的博客
@@ -57,7 +59,8 @@
 | [Kuhung's Blog](https://kuhungio.me/posts/) | 2020.04.22 | 机器学习 | | 机器学习 |
 | [hillelwayne](https://hillelwayne.com/post/) | 2020.04.23 | 大牛 | | 英文 |
 | [jamie.build](https://jamie.build/) | 2020.04.23 | 教学 | | 英文 |
-| [穷佐罗的Linux书](https://zorrozou.github.io/) | 2020.05.06 | Linux | | Linux |
+| [数据、计算，以及学习编程](https://www.himself65.com/start-to-learn-programming/) | 2020.05.20 | 编程的本质 | | 编程的本质 |
+| [机器学习相关](http://codewithzhangyi.com/blog/) | 2020.05.27 | 机器学习 | | 机器学习 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
@@ -97,6 +100,7 @@ len(set(list(a))) == 1
 
 - 《计算机网络》
 - [C语言程序设计: 现代方法](https://book.douban.com/subject/4279678/)
+- [写给软件工程师看的硬件编程指南](https://phodal.github.io/make/)
 
 ### Study List
 
@@ -113,6 +117,7 @@ len(set(list(a))) == 1
 - [ ] [正则](https://refrf.shreyasminocha.me/)
 - [ ] [REACT 全栈](https://fullstackopen.com/zh)
 - [ ] [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/#readability-vs-speed)
+- [ ] [C DB](https://cstack.github.io/db_tutorial/)
 
 ---
 ### 读书, 观影，追番，游戏，刷剧，做饭记录 (Start recording at 2020.3.23)
@@ -125,6 +130,8 @@ len(set(list(a))) == 1
 - 《古董局中局4》  start: 2020.04.03 | end: 2020.4.4
 - 《沉默的巡游》   start: 2020.04.18 | end: 2020.4.20
 - 《经济解释》     start: 2020.05.03 |
+- 《死人经》       start: 2020.05.23 | 2020.05.26 读了200章弃了
+- 《异邦骑士》     start: 2020.05.28 |
  
 #### 观影
 
@@ -134,47 +141,55 @@ len(set(list(a))) == 1
 - 《致命魔术》           start: 2020.04.15 | end: 2020.04.15
 - 《利刃出鞘》           start: 2020.05.03 | end: 2020.05.04
 - 《邪不压正》           start: 2020.05.05 | end: 2020.05.05
+- 《忌日快乐》           start: 2020.05.30 | end: 2020.05.30
 
 #### 刷剧
 
 - 《下辈子要好好过》
 - 《西部世界3》 --2020.05.06 追完--跌落神坛
+- 《轮回派对》  --2020.05.31 开始
 
 #### 追番
 
 - 《异度侵入》 start: ??? | end: 2020.3.23
 - 《青春猪头少年不会梦到兔女郎学姐》 start: 2020.05.06
+- 《瑞克和莫蒂》 start: ???
 
 #### 游戏
 
 - 《勇者斗恶龙11》
+- 《GTA5》 2020.05.20 | 2020.5.27
+- 《女神异闻录5》？
 
 #### 做饭
 
 - 红烧排骨 2020.03.28, 2020.05.02
 - 回锅肉 2020.03.29
-- 麻辣香锅 2020.03.30, 2020.05.05
+- 麻辣香锅 2020.03.30, 2020.05.05, 2020.05.17
 - 小牛饭 2020.04.04
 - 京酱肉丝 2020.04.05
 - 辣白菜炒五花肉 2020.04.06
 - 黄瓜片 2020.04.06
 - 火爆大头菜 2020.04.12
 - 酱牛肉 2020.04.19
-- 红烧肉 2020.05.04
+- 红烧肉 2020.05.04, 2020.05.24
 - 肉丸子 2020.05.10
 - 尖椒干豆腐 2020.05.10
+- 溜肉段(失败) 2020.05.16
+- 牛肉汤      2020.05.22
+- 炒鱿鱼      2020.05.31
 
 ## 个人管理
 
 - OKR 1 减肥
-  1. 2020.05.06开始， 每个月减10斤
+  1. 2020.05.06开始， 每个月减10斤 -------2020.05.29第一阶段瘦10斤达成
   2. 2020.09.01第一阶段结束，第二阶段是保持
   3. 跑步恢复到半马水平，恢复到5min30s/km
   4. 瘦到140斤-130斤
   5. 到年底不反弹
 - OKR 2 日语
   1. 每天坚持学1小时
-  2. 每天看番，或日语相关得
+  2. 每天看番，或日语相关的
   3. 年底考个3级
 - OKR 3 精进编程能力
   1. 每天记录学习内容
