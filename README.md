@@ -61,6 +61,7 @@
 | [jamie.build](https://jamie.build/) | 2020.04.23 | 教学 | | 英文 |
 | [数据、计算，以及学习编程](https://www.himself65.com/start-to-learn-programming/) | 2020.05.20 | 编程的本质 | | 编程的本质 |
 | [机器学习相关](http://codewithzhangyi.com/blog/) | 2020.05.27 | 机器学习 | | 机器学习 |
+| [shidenggui](https://shidenggui.com/archive) | 2020.06.09 | cool guy | | cool guy |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
@@ -153,7 +154,8 @@ len(set(list(a))) == 1
 
 - 《异度侵入》 start: ??? | end: 2020.3.23
 - 《青春猪头少年不会梦到兔女郎学姐》 start: 2020.05.06
-- 《瑞克和莫蒂》 start: ???
+- 《瑞克和莫蒂》
+- 《异兽魔都》
 
 #### 游戏
 
