@@ -205,5 +205,6 @@ len(set(list(a))) == 1
 
 1. [30天重新跑起来减重](https://github.com/yihong0618/gitblog/issues/154)（2020.05.09--2020.06.08达成，继续保持，减重15斤）
 2. [30天培养学日语计划](https://github.com/yihong0618/2020/issues/1) （每天雷打不动至少1小时 2020.06.08开始）
+3. 冥想
 
 ## 2020 Status Table
