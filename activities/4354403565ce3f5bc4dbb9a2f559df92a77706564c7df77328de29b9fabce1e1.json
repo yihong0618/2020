@@ -1,0 +1,29 @@
+{
+    "id": "4354403565ce3f5bc4dbb9a2f559df92a77706564c7df77328de29b9fabce1e1",
+    "type": "run",
+    "app_id": "com.polar1.polar-prod",
+    "start_epoch_ms": 1359895998000,
+    "end_epoch_ms": 1359896588000,
+    "last_modified": 1591461346861,
+    "active_duration_ms": 590000,
+    "session": false,
+    "delete_indicator": false,
+    "summaries": [],
+    "sources": [
+        "com.polar1.polar-prod.Unknown.0"
+    ],
+    "tags": {},
+    "change_tokens": [
+        "cba273ecd4c68632cde06198a953e5f5e25c334189c2385aef3f455d77f86bc2:1591461346861"
+    ],
+    "metric_types": [],
+    "moments": [
+        {
+            "key": "lap",
+            "value": "1",
+            "timestamp": 1359895998000,
+            "app_id": "com.polar1.polar-prod",
+            "source": "com.polar1.polar-prod.Unknown.0"
+        }
+    ]
+}
