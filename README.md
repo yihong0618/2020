@@ -62,6 +62,7 @@
 | [数据、计算，以及学习编程](https://www.himself65.com/start-to-learn-programming/) | 2020.05.20 | 编程的本质 | | 编程的本质 |
 | [机器学习相关](http://codewithzhangyi.com/blog/) | 2020.05.27 | 机器学习 | | 机器学习 |
 | [shidenggui](https://shidenggui.com/archive) | 2020.06.09 | cool guy | | cool guy |
+| [ Mohanson](http://accu.cc/) | 2020.06.24 | 图形学 | | 图形学 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
