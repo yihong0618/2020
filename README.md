@@ -63,6 +63,7 @@
 | [机器学习相关](http://codewithzhangyi.com/blog/) | 2020.05.27 | 机器学习 | | 机器学习 |
 | [shidenggui](https://shidenggui.com/archive) | 2020.06.09 | cool guy | | cool guy |
 | [ Mohanson](http://accu.cc/) | 2020.06.24 | 图形学 | | 图形学 |
+| [ miao yu](https://yufree.cn/) | 2020.06.28 | 于淼 | | 喜欢这个人的文字 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
@@ -120,6 +121,8 @@ len(set(list(a))) == 1
 - [ ] [REACT 全栈](https://fullstackopen.com/zh)
 - [ ] [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/#readability-vs-speed)
 - [ ] [C DB](https://cstack.github.io/db_tutorial/)
+- [ ] [计算机缺失的课程](https://missing-semester-cn.github.io/)
+
 
 ---
 ### 读书, 观影，追番，游戏，刷剧，做饭记录 (Start recording at 2020.3.23)
@@ -169,7 +172,7 @@ len(set(list(a))) == 1
 #### 做饭
 
 - 红烧排骨 2020.03.28, 2020.05.02 2020.06.19
-- 回锅肉 2020.03.29
+- 回锅肉 2020.03.29, 2020.06.26
 - 麻辣香锅 2020.03.30, 2020.05.05, 2020.05.17
 - 小牛饭 2020.04.04
 - 京酱肉丝 2020.04.05
