@@ -31,6 +31,7 @@
 | [浅谈服务端编程](http://www.0xffffff.org/2014/11/20/33-servie-program/)| 2020.04.23 | 服务器 | | 服务器 |
 | [项目开发总结](https://hanfeng.ink/post/project_thinking/)| 2020.05.25 | 项目 | | 项目经验 |
 | [五月是你的孔乙己](https://www.himself65.com/2020-05/)| 2020.05.25 | 触动 | | 触动 |
+| [斗鱼关注人数爬取](https://cjting.me/2020/07/01/douyu-crawler-and-font-anti-crawling/)| 2020.07.04 | 有趣的爬虫 | | 这才叫爬虫 |
 
 
 ### 收藏的博客
@@ -64,6 +65,7 @@
 | [shidenggui](https://shidenggui.com/archive) | 2020.06.09 | cool guy | | cool guy |
 | [ Mohanson](http://accu.cc/) | 2020.06.24 | 图形学 | | 图形学 |
 | [ miao yu](https://yufree.cn/) | 2020.06.28 | 于淼 | | 喜欢这个人的文字 |
+| [cjting](https://cjting.me/) | 2020.07.04 | 有趣的人 | | 值得学习 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
