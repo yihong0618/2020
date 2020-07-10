@@ -66,6 +66,7 @@
 | [ Mohanson](http://accu.cc/) | 2020.06.24 | 图形学 | | 图形学 |
 | [ miao yu](https://yufree.cn/) | 2020.06.28 | 于淼 | | 喜欢这个人的文字 |
 | [cjting](https://cjting.me/) | 2020.07.04 | 有趣的人 | | 值得学习 |
+| [橙小张](https://blog.sailfishc.cn/) | 2020.07.10 | 有趣的人 | | 博客需要重写 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
