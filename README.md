@@ -32,6 +32,7 @@
 | [项目开发总结](https://hanfeng.ink/post/project_thinking/)| 2020.05.25 | 项目 | | 项目经验 |
 | [五月是你的孔乙己](https://www.himself65.com/2020-05/)| 2020.05.25 | 触动 | | 触动 |
 | [斗鱼关注人数爬取](https://cjting.me/2020/07/01/douyu-crawler-and-font-anti-crawling/)| 2020.07.04 | 有趣的爬虫 | | 这才叫爬虫 |
+| [Understanding and Decoding a JPEG](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)| 2020.07.15 | 有空看看 | | 好玩 |
 
 
 ### 收藏的博客
