@@ -71,6 +71,7 @@
 | [橙小张](https://blog.sailfishc.cn/) | 2020.07.10 | 有趣的人 | | ... |
 | [robertheaton](https://robertheaton.com/) | 2020.07.21 | English | | 跟这个博客学好多东西 |
 | [gaocegege](http://gaocegege.com/Blog/) | 2020.07.29 | 值得学习的人 | | 值得学习 |
+| [Brandon's Blog](https://skerritt.blog/) | 2020.08.05 | 好看详实的博客 | | 英语 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
