@@ -34,6 +34,7 @@
 | [斗鱼关注人数爬取](https://cjting.me/2020/07/01/douyu-crawler-and-font-anti-crawling/)| 2020.07.04 | 有趣的爬虫 | | 这才叫爬虫 |
 | [Understanding and Decoding a JPEG](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)| 2020.07.15 | 有空看看 | | 好玩 |
 | [程式設計思考（一）核心領域](https://dannypsnl.github.io/blog/2019/11/09/cs/abstraction-of-programming-design/)| 2020.07.31 | 这个不错 | | 学习 |
+| [数据结构](https://ourmachinery.com/post/data-structures-part-1-bulk-data/| 2020.08.13 | 数据结构 | | English |
 
 
 ### 收藏的博客
