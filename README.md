@@ -34,7 +34,7 @@
 | [斗鱼关注人数爬取](https://cjting.me/2020/07/01/douyu-crawler-and-font-anti-crawling/)| 2020.07.04 | 有趣的爬虫 | | 这才叫爬虫 |
 | [Understanding and Decoding a JPEG](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)| 2020.07.15 | 有空看看 | | 好玩 |
 | [程式設計思考（一）核心領域](https://dannypsnl.github.io/blog/2019/11/09/cs/abstraction-of-programming-design/)| 2020.07.31 | 这个不错 | | 学习 |
-| [数据结构](https://ourmachinery.com/post/data-structures-part-1-bulk-data/| 2020.08.13 | 数据结构 | | English |
+| [数据结构](https://ourmachinery.com/post/data-structures-part-1-bulk-data/)| 2020.08.13 | 数据结构 | | English |
 
 
 ### 收藏的博客
@@ -73,6 +73,7 @@
 | [robertheaton](https://robertheaton.com/) | 2020.07.21 | English | | 跟这个博客学好多东西 |
 | [gaocegege](http://gaocegege.com/Blog/) | 2020.07.29 | 值得学习的人 | | 值得学习 |
 | [Brandon's Blog](https://skerritt.blog/) | 2020.08.05 | 好看详实的博客 | | 英语 |
+| [javaScript Visualized](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif) | 2020.08.17 | 超级好的JS教程 | | 可视化 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
@@ -127,10 +128,11 @@ len(set(list(a))) == 1
 - [ ] [SCIP](https://github.com/lfkdsk/SICP-Magical-Book)
 - [ ] [FAST AI](https://course.fast.ai/videos/?lesson=1)
 - [ ] [正则](https://refrf.shreyasminocha.me/)
-- [ ] [REACT 全栈](https://fullstackopen.com/zh)
+- [x] [REACT 全栈](https://fullstackopen.com/zh)
 - [ ] [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/#readability-vs-speed)
 - [ ] [C DB](https://cstack.github.io/db_tutorial/)
 - [ ] [计算机缺失的课程](https://missing-semester-cn.github.io/)
+- [ ] [JS 相关](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
 
 ---
@@ -146,7 +148,9 @@ len(set(list(a))) == 1
 - 《经济解释》     start: 2020.05.03 |
 - 《死人经》       start: 2020.05.23 | 2020.05.26 读了200章弃了
 - 《异邦骑士》     start: 2020.05.28 |
- 
+- 《码农翻身》
+- 《程序员修炼之道》
+
 #### 观影
 
 - 《英雄本色1》          start: 2020.03.22 | end: 2020.03.22
@@ -177,6 +181,7 @@ len(set(list(a))) == 1
 - 《MGS V》2020.06.04 |
 - 《女神异闻录5》？
 - 《血源》
+- 《Factorio》？超级想玩这个
 
 #### 做饭
 
