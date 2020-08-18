@@ -35,6 +35,7 @@
 | [Understanding and Decoding a JPEG](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)| 2020.07.15 | 有空看看 | | 好玩 |
 | [程式設計思考（一）核心領域](https://dannypsnl.github.io/blog/2019/11/09/cs/abstraction-of-programming-design/)| 2020.07.31 | 这个不错 | | 学习 |
 | [数据结构](https://ourmachinery.com/post/data-structures-part-1-bulk-data/)| 2020.08.13 | 数据结构 | | English |
+| [2019总结](http://freemind.pluskid.org/misc/2019-summary/)| 2020.08.18 | 羡慕的人生 | | 活得真精彩啊 |
 
 
 ### 收藏的博客
