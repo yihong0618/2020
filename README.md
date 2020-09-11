@@ -108,7 +108,7 @@ len(set(list(a))) == 1
 
 #### Reading
 
-- 《深入理解计算机系统》
+- [《深入理解计算机系统》](https://github.com/DreamAndDead/CSAPP-3e-Solutions)
 - [《Beej's Guide to Network Programming 简体中文版》](http://beej-zhcn.netdpi.net/)
 - [fastai book](https://github.com/fastai/fastbook)
 - [《Linux C一站式学习》](https://docs.huihoo.com/c/linux-c-programming/)
