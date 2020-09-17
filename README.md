@@ -78,6 +78,7 @@
 | [Brandon's Blog](https://skerritt.blog/) | 2020.08.05 | 好看详实的博客 | | 英语 |
 | [javaScript Visualized](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif) | 2020.08.17 | 超级好的JS教程 | | 可视化 |
 | [LC's Software](https://lc-soft.io/) | 2020.08.31 | C语言狠人 | | Mark |
+| [kenlai](https://kenlai.me/post/) | 2020.09.17 | 网络狠人 | | 用的到 |
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
