@@ -86,6 +86,7 @@
 | ------- | ------- | ------- | ------- | -------|
 | [build a web framework](https://www.youtube.com/watch?v=7kwnjoAJ2HQ&t=) | 2020.04.09 | Python | | 3小时 |
 | [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) | 2020.04.23 | Python | | 1小时 |
+| [Lambda Calculus: PyCon 2019](https://youtu.be/5C6sv7-eTKg) | 2020.10.09 | 函数式 | | 3小时 |
 
 ### 代码片段
 - 一段非常厉害的印度人写的代码--2020.02.12
@@ -212,6 +213,7 @@ len(set(list(a))) == 1
 - 孜然鸡脆骨  2020.06.21
 - 西红柿鸡蛋汤 2020.10.06
 - 泡菜汤       2020.10.06
+- 蘑菇炒肉     2020.10.07
 
 ## 个人管理
 
