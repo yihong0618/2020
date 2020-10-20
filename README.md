@@ -81,6 +81,8 @@
 | [kenlai](https://kenlai.me/post/) | 2020.09.17 | 网络狠人 | | 用的到 |
 | [四火的唠叨](https://www.raychase.net/allarticles) | 2020.09.23 | 有趣的人 | | 游戏,f分布式 |
 | [观海听涛](https://bitsflow.org/) | 2020.10.13 | 被名字吸引 | | 内容也不错 |
+| [k4yt3x](https://k4yt3x.com/) | 2020.10.20 | 又一个网络大佬 | | 又一个网络大佬 |
+
 
 ### 收藏的视频
 | 视频名称 | 添加日期 | type | 重看日期 | 备注 |
