@@ -82,6 +82,7 @@
 | [四火的唠叨](https://www.raychase.net/allarticles) | 2020.09.23 | 有趣的人 | | 游戏,f分布式 |
 | [观海听涛](https://bitsflow.org/) | 2020.10.13 | 被名字吸引 | | 内容也不错 |
 | [k4yt3x](https://k4yt3x.com/) | 2020.10.20 | 又一个网络大佬 | | 又一个网络大佬 |
+| [Zlog](https://www.mrzz.cc/) | 2020.10.30 | 密码学相关 | | 密码学 |
 
 
 ### 收藏的视频
