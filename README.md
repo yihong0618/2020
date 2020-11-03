@@ -83,6 +83,7 @@
 | [观海听涛](https://bitsflow.org/) | 2020.10.13 | 被名字吸引 | | 内容也不错 |
 | [k4yt3x](https://k4yt3x.com/) | 2020.10.20 | 又一个网络大佬 | | 又一个网络大佬 |
 | [Zlog](https://www.mrzz.cc/) | 2020.10.30 | 密码学相关 | | 密码学 |
+| [NeymarL](https://www.52coding.com.cn/archives/) | 2020.11.03 | 机器学习相关 | | 有趣 |
 
 
 ### 收藏的视频
