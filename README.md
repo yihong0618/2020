@@ -84,6 +84,7 @@
 | [k4yt3x](https://k4yt3x.com/) | 2020.10.20 | 又一个网络大佬 | | 又一个网络大佬 |
 | [Zlog](https://www.mrzz.cc/) | 2020.10.30 | 密码学相关 | | 密码学 |
 | [NeymarL](https://www.52coding.com.cn/archives/) | 2020.11.03 | 机器学习相关 | | 有趣 |
+| [brewlin](https://wiki.brewlin.com/) | 2020.11.13 | 底层 | | 后浪 |
 
 
 ### 收藏的视频
