@@ -85,6 +85,7 @@
 | [Zlog](https://www.mrzz.cc/) | 2020.10.30 | 密码学相关 | | 密码学 |
 | [NeymarL](https://www.52coding.com.cn/archives/) | 2020.11.03 | 机器学习相关 | | 有趣 |
 | [brewlin](https://wiki.brewlin.com/) | 2020.11.13 | 底层 | | 后浪 |
+| [JJy](https://justjjy.com/archive) | 2020.12.10 | 区块链 | | 又一个有趣的人 |
 
 
 ### 收藏的视频
@@ -134,7 +135,7 @@ len(set(list(a))) == 1
 - [ ] [Web安全学习笔记](https://websec.readthedocs.io/zh/latest/)
 - [x] [Node入门](https://www.nodebeginner.org/index-zh-cn.html) -- 2020.04.03
 - [ ] [日语语法指南](https://res.wokanxing.info/jpgramma/)
-- [ ] [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
+- [x] [web-app-from-scratch](https://github.com/Bogdanp/web-app-from-scratch)
 - [x] [Let’s Build A Web Server](https://ruslanspivak.com/lsbaws-part1/)
 - [x] [BASH教程](https://wangdoc.com/bash/intro.html) ----写的不好
 - [x] [Discovering the terminal](https://blog.balthazar-rouberol.com/discovering-the-terminal)
@@ -163,6 +164,7 @@ len(set(list(a))) == 1
 - 《异邦骑士》     start: 2020.05.28 |
 - 《码农翻身》
 - 《程序员修炼之道》
+- 《Dance Dance Dance》-- 《舞舞舞》 英文版
 
 #### 观影
 
@@ -202,12 +204,12 @@ len(set(list(a))) == 1
 
 #### 做饭
 
-- 红烧排骨 2020.03.28, 2020.05.02 2020.06.19 2020.10.05
-- 回锅肉 2020.03.29, 2020.06.26 2020.10.04
+- 红烧排骨 2020.03.28, 2020.05.02, 2020.06.19, 2020.10.05
+- 回锅肉 2020.03.29, 2020.06.26, 2020.10.04
 - 麻辣香锅 2020.03.30, 2020.05.05, 2020.05.17
 - 小牛饭 2020.04.04
 - 京酱肉丝 2020.04.05
-- 辣白菜炒五花肉 2020.04.06 2020.10.06
+- 辣白菜炒五花肉 2020.04.06, 2020.10.06
 - 黄瓜片 2020.04.06
 - 火爆大头菜 2020.04.12
 - 酱牛肉 2020.04.19
@@ -225,6 +227,10 @@ len(set(list(a))) == 1
 - 蘑菇炒肉     2020.10.07, 2020.12.08
 - 排骨炖土豆   2020.11.29
 - 葱爆羊肉     2020.12.08
+- 尖椒炒肉     2020.12.09
+- 牛肉炖土豆   2020.12.09
+- 辣炒藕片     2020.12.09
+
 
 ## 个人管理
 
