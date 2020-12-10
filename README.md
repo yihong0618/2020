@@ -1,7 +1,12 @@
 # 2020
 我的2020
 
+GitHub
+
+<img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yihong0618&show_icons=true&&theme=radical&hide_title=true" />
+
 ---
+
 ### 收藏的文章
 | 文章名称 | 添加日期 | type | 重看日期 | 备注 |
 | ------- | ------- | ------- | ------- | -------|
