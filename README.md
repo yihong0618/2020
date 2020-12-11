@@ -5,6 +5,10 @@ GitHub
 
 <img align="middle" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yihong0618&show_icons=true&&theme=radical&hide_title=true" />
 
+Running
+
+![](https://github.com/yihong0618/blog/blob/master/assets/github_2020.svg)
+
 ---
 
 ### 收藏的文章
