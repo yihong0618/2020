@@ -243,6 +243,27 @@ len(set(list(a))) == 1
 - 芸豆排骨土豆  2020.12.13
 - 炒菜花        2020.12.13
 
+## 项目记录（开的新项目）
+
+- [Runtastic](https://github.com/yihong0618/Runtastic)
+- [Running_page](https://github.com/yihong0618/running_page)
+- [blog](https://github.com/yihong0618/blog)
+- [gitblog](https://github.com/yihong0618/gitblog)
+- [shanbay_remember](https://github.com/yihong0618/shanbay_remember)
+- [vscode-gcores](https://github.com/yihong0618/vscode-gcores)
+- [2020](https://github.com/yihong0618/2020)
+
+## 项目记录（主要参与的项目）
+
+- [iredis](https://github.com/laixintao/iredis)
+- [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)
+- [GpxTrackPoster](https://github.com/flopp/GpxTrackPoster)
+- [nrc-exporter](https://github.com/yasoob/nrc-exporter)
+- [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
+- [leetcode-cli](https://github.com/leetcode-tools/leetcode-cli)
+- [kb](https://github.com/gnebbia/kb)
+
+
 ## 个人管理
 
 - OKR 1 减肥
@@ -268,4 +289,3 @@ len(set(list(a))) == 1
 2. [30天培养学日语计划](https://github.com/yihong0618/2020/issues/1) （每天雷打不动至少1小时 2020.06.08开始）
 3. 冥想
 
-## 2020 Status Table
