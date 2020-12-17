@@ -46,6 +46,7 @@ Running
 | [2019总结](http://freemind.pluskid.org/misc/2019-summary/)| 2020.08.18 | 羡慕的人生 | | 活得真精彩啊 |
 | [万言万当，不如一默](https://yihui.org/cn/2020/07/silence/)| 2020.08.27 | 学习 | | 沉默 |
 | [on-leaving](https://blog.matsu.io/on-leaving)| 2020.09.02 | 今年最触动的一篇文章 | | English |
+| [tiny-x64-helloworld](https://cjting.me/2020/12/10/tiny-x64-helloworld/)| 2020.12.17 | 有趣 | | 底层真好玩啊 |
 
 
 ### 收藏的博客
