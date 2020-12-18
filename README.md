@@ -95,6 +95,8 @@ Running
 | [NeymarL](https://www.52coding.com.cn/archives/) | 2020.11.03 | 机器学习相关 | | 有趣 |
 | [brewlin](https://wiki.brewlin.com/) | 2020.11.13 | 底层 | | 后浪 |
 | [JJy](https://justjjy.com/archive) | 2020.12.10 | 区块链 | | 又一个有趣的人 |
+| [daya0576](https://changchen.me/) | 2020.12.18 | Python&Java | | 钻戒 |
+
 
 
 ### 收藏的视频
