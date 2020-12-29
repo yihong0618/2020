@@ -248,6 +248,7 @@ len(set(list(a))) == 1
 - 可乐鸡翅      2020.12.14
 - 地三鲜        2020.12.15
 - 炸蘑菇        2020.12.19
+- 酱鸡翅        2020.12.29
 
 ## 项目记录（开的新项目）
 
@@ -258,6 +259,7 @@ len(set(list(a))) == 1
 - [shanbay_remember](https://github.com/yihong0618/shanbay_remember)
 - [vscode-gcores](https://github.com/yihong0618/vscode-gcores)
 - [2020](https://github.com/yihong0618/2020)
+- [my_github](https://github.com/yihong0618/my_github)
 
 ## 项目记录（主要参与的项目）
 
